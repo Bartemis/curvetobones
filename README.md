@@ -7,3 +7,4 @@ Add bones to a curve
 check 'Add jiggle to bones' if you want to have some physics 
 (*requires the addon https://github.com/cheece/JiggleArmature*)
 
+![Alt Text](http://g2f.nl/08koxfa)
